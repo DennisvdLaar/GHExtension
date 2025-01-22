@@ -1,0 +1,2 @@
+# GHExtension
+GitHub Copilot Extension
